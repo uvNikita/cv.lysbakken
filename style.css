@@ -23,7 +23,7 @@ header {
 }
 
 .header-content {
-  max-width: 676px;
+  max-width: 680px;
   height: 195px;
 }
 
@@ -39,7 +39,7 @@ header {
 }
 
 main {
-  max-width: 676px;
+  max-width: 680px;
 }
 
 main, .with-semibold > div > :nth-child(2) > :nth-child(2) {
