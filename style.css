@@ -131,10 +131,6 @@ h2 {
   color: #008284;
 }
 
-#references h2 {
-  margin-bottom: 8.5px;
-}
-
 #footer {
   height: 58px;
   position: fixed;
@@ -209,11 +205,11 @@ a:visited {
     max-width: 100%;
   }
 
-  h2, #keywords, #references  {
+  h2, #keywords {
     margin-left: 16px;
     margin-right: 16px;
   }
-  #keywords h2, #references h2 {
+  #keywords h2 {
     margin-left: 0;
   }
 
