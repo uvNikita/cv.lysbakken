@@ -186,6 +186,12 @@ a:visited {
   /* box-shadow: inset 0 -2.5px 0px -1px #00adb2;*/
 }
 
+@media screen and (max-width: 1025px) {
+    abbr[title] {
+       box-shadow: none;
+    }
+}
+
 @media screen and (max-width: 702px) {
   .header-content {
     max-width: calc(100vw - 32px);
