@@ -42,7 +42,7 @@ main {
   max-width: 680px;
 }
 
-main, .with-semibold > div > :nth-child(2) > :nth-child(2) {
+main, .with-semibold > div > :nth-child(2) > div:nth-child(2) {
   font-size: 0.875rem;
   font-weight: 400;
 }
