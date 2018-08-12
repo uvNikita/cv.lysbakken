@@ -16,7 +16,7 @@ body {
 }
 
 abbr[title] {
-   box-shadow: inset 0 -1.5px 0px -1px #adadad;
+   box-shadow: inset 0 -2px 0px -1px #d7d8d9;
    text-decoration: none;
 }
 
